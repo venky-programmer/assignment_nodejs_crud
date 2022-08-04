@@ -1,0 +1,8 @@
+Before npm start
+
+Make sure to edit below details:
+
+1) In app.js page, do not forget to enter your mysql password (line 31, col 14) and your database name (32, col 14).
+
+2) In customerController.js page, do not forget to enter your mysql password (line 7, col 14) and your database name (8, col 14).
+
